@@ -1,0 +1,33 @@
+aid: automatisch
+name: Automatisch
+description: >-
+  Automatisch is an open source business automation tool that connects different services and automates workflows.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Workflow Automation
+  - Self-Hosted
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/automatisch/refs/heads/main/apis.yml
+created: 2026-03-27
+modified: 2026-03-27
+specificationVersion: 0.19
+apis:
+  - aid: automatisch:automatisch
+    name: Automatisch
+    description: >-
+      Automatisch is an open source business automation tool that connects different services and automates workflows.
+    humanURL: https://automatisch.io
+    tags:
+      - Workflow Automation
+    properties:
+      - type: Documentation
+        url: https://automatisch.io/docs
+common:
+  - type: Website
+    url: https://automatisch.io
+  - type: Documentation
+    url: https://automatisch.io/docs
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
