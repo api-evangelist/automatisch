@@ -48,6 +48,8 @@ apis:
         url: https://github.com/automatisch/automatisch
 
 common:
+  - type: DomainSecurity
+    url: security/automatisch-domain-security.yml
   - type: Website
     url: https://automatisch.io
   - type: Documentation
