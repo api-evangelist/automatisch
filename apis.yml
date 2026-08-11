@@ -60,6 +60,10 @@ apis:
         url: https://github.com/automatisch/automatisch
 
 common:
+  - type: IssueTracker
+    url: https://github.com/automatisch/automatisch/issues
+  - type: CodeOfConduct
+    url: https://github.com/automatisch/automatisch/blob/main/CODE_OF_CONDUCT.md
   - type: DomainSecurity
     url: security/automatisch-domain-security.yml
   - type: Website
