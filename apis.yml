@@ -67,7 +67,7 @@ apis:
     humanURL: https://github.com/automatisch/automatisch
     tags:
       - Workflow-Automation
-      - Flows
+      - Flow
       - Connections
       - Webhook
       - REST
